@@ -231,7 +231,7 @@ p {
 
 .top_cont_outer {
     /* background: #df0031; */
-    background: rgba(255, 255, 255, 0);
+    background: rgba(19, 18, 18, 0.523);
     position: relative;
 }
 
@@ -313,9 +313,12 @@ a.read_more2:hover {
 
 	
 
+/* about us */
 
-
-
+#aboutUs
+{
+    background: rgba(19, 18, 18, 0.523);
+}
 
 
 
@@ -325,7 +328,7 @@ a.read_more2:hover {
 #service {
     padding: 60px 0px;
     /* background: #EFEFEF; */
-    background: #33333300;
+    background: #0e0e0eb6;
 }
 
 .service_wrapper {
@@ -494,6 +497,7 @@ a.contact_btn:hover {
 
 #Portfolio {
     padding: 60px 0px;
+    background: rgba(19, 18, 18, 0.523);
 }
 
 .Portfolio-nav {
@@ -519,7 +523,7 @@ a.contact_btn:hover {
     border-radius: 4px;
     text-transform: uppercase;
     /* background: #f7f7f7; */
-    background: #49b5e700;
+    background: #121313b0;
     margin-bottom: 5px;
     transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -593,6 +597,7 @@ img {
 
 #clients {
     padding: 60px 0px;
+    background: rgba(19, 18, 18, 0.523);
 }
 
 .client_area {
@@ -678,6 +683,7 @@ img {
 
 .page_section.team {
     padding: 60px 0;
+    background: rgba(19, 18, 18, 0.523);
 }
 
 .page_section.team h6 {
@@ -1021,7 +1027,7 @@ img {
 
 .footer_wrapper {
     /* background: #232323; */
-    background: #3c3a3a00;
+    background: rgba(19, 18, 18, 0.523);
 }
 
 .footer_bottom {
